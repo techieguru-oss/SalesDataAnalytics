@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+database/superstore.db
+
+# Helper scripts
+check_months.py
